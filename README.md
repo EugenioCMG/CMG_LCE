@@ -1,6 +1,3 @@
-# CMG_LCE
-CMG–LCE presents a coherent-vacuum framework where the electromagnetic memory field Ψ couples to gravity via the Coherence–Energy Law (LCE). 
-
 # CMG–LCE • Magnetogravitational Cosmology (Vol. I & II)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17376891.svg)](https://doi.org/10.5281/zenodo.17376891)
@@ -56,4 +53,3 @@ If these are not observed at realistic sensitivity → **CMG–LCE is falsified 
 ---
 
 ## 📁 Repository Layout (suggested)
-
