@@ -26,12 +26,12 @@ Gravitation emerges as a macroscopic effect of coherence in this memory-bearing 
 
 <img width="792" height="400" alt="image" src="https://github.com/user-attachments/assets/3bee1d5e-966e-4faa-bf71-9da6ca4502f7" />
 
- **Equation of state**
+
  <img width="491" height="177" alt="image" src="https://github.com/user-attachments/assets/898c55e6-e79a-44a8-91be-b77f74908ab5" />
 
 
 
-**Dynamical cosmological term**
+
  
 <img width="368" height="162" alt="image" src="https://github.com/user-attachments/assets/b34d18fd-e3c3-4b1e-be8e-0187c51d8e2f" />
 
