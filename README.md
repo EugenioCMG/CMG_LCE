@@ -56,3 +56,13 @@ If these are not observed at realistic sensitivity → **CMG–LCE is falsified 
 ---
 
 ## 📁 Repository Layout (suggested)
+
+/releases
+Vol_I_The_Psi_Field_FULL.pdf
+Vol_II_Cosmology_LCE_FULL.pdf
+The_Psi_Field_Vol_I.docx
+Cosmology_and_the_Coherence–Energy_Law_LCE_Vol_II.docx
+Vol_I_The_Psi_Field_Abstract_arXiv.pdf
+Vol_II_Cosmology_LCE_Abstract_arXiv.pdf
+Verification_Plan_* (EN/ES).docx
+Letter_* (LOFAR/ALMA/ESO).docx
