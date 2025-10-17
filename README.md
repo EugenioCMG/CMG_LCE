@@ -26,7 +26,7 @@ Gravitation emerges as a macroscopic effect of coherence in this memory-bearing 
 
 <img width="792" height="400" alt="image" src="https://github.com/user-attachments/assets/3bee1d5e-966e-4faa-bf71-9da6ca4502f7" />
 
-**Equation of state**
+ **Equation of state**
 $$
 p_\Psi = w_\Psi\,\rho_\Psi, \qquad
 w_\Psi = -1 + \frac{1}{3\mu}\left(\frac{\dot{\Psi}}{H}\right)^2
