@@ -1,0 +1,25 @@
+Copyright (c) 2025 Eugenio Oliva Sánchez
+License
+---
+
+# 3) CITATION.cff (pegar tal cual)
+
+```yaml
+cff-version: 1.2.0
+message: "If you use CMG–LCE in your work, please cite this release."
+title: "CMG–LCE: Magnetogravitational Cosmology — Vol. I & II (2025 Release)"
+authors:
+  - family-names: "Oliva Sánchez"
+    given-names: "Eugenio"
+    email: "eosanse@hotmail.com"
+date-released: 2025-10-17
+doi: 10.5281/zenodo.17376891
+keywords:
+  - cosmology
+  - emergent gravity
+  - coherent vacuum
+  - magnetogravitational coupling
+  - Lambda(t)
+  - dark matter alternatives
+license: CC-BY-4.0
+ under the Creative Commons Attribution 4.0 International (CC BY 4.0).
